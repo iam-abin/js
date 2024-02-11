@@ -1,4 +1,4 @@
-1. install nodejs in local machine
+Node.js: [Download and install Node.js](https://nodejs.org/en/download/)
 
 ## to run
 
